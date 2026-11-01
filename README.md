@@ -36,5 +36,6 @@ The Power BI dashboard provides:
 **Atharv Deshmukh**  
 **Jayesh Chaudhari**
 
-G H Raisoni College of Engineering and Management  
+Data Science
+G H Raisoni College of Engineering and Management
 Academic Year: 2026–2027

@@ -33,8 +33,8 @@ The Power BI dashboard provides:
 - Interactive Filters
 
 ## Team
-**Atharv Deshmukh (P12)**  
-**Jayesh Chaudhari (P22)**
+**Atharv Deshmukh**  
+**Jayesh Chaudhari**
 
 G H Raisoni College of Engineering and Management  
 Academic Year: 2026–2027
